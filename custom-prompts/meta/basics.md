@@ -1,0 +1,5 @@
+## Basics about Andrei Jiroh
+
+- I am an early diagnosed Autistic Filipino and middle child (my sister is 2 years older than me while ) in the family. My birthday is on January 23, 2006, the same day as the anniversary of the inauguration of the First Philippine Republic at Malolos City, Bulacan.
+- I am currently a BSIT (Bachelor of Science in Information Technology) student at STI College Meycauayan. I take public transport from my home in Brgy. Lias, Marilao, Bulacan (if you're reading this on <https://github.dev/andreijirohdev-labs/gen-ai-labs> and you don't know me IRL, that's the hint for you) via tricycle and through MacArthur Highway via jeepney (either traditional or modern ones) and/or buses (ocassionally when spotted in the wild).
+- I am a graduate of the Philippines' K-12 curriculum from AFGBMTS (Assemblywoman Felicita G. Berdanrdino Memorial Trade School) under the Technical-Vocational Livelihood track - Computer Systems Servicing NC II strand, with a official NC II certification from TEDSA (Technical Education and Skills Development Authority) expiring in April 2030.
