@@ -1,0 +1,345 @@
+{
+  "period": "2026-07",
+  "status": "ok",
+  "data": {
+    "period": "July 2026",
+    "heroTitle": "Building the infrastructure around yourself.",
+    "heroBody": "Most of this month went into decisions about your own stack — what to pay for, what to self-host, how to structure your personal user manual across platforms, where your rotation keys live. You used Claude as a researcher and a fact-checker, handing off the lookup work and then steering the conclusions yourself. The pattern across conversations: you'd arrive with a specific question, pull in live links and screenshots as evidence, and push back when the answer didn't match what you were seeing on your own screen.",
+    "stats": [
+      {
+        "n": "11",
+        "label": "Conversations",
+        "sublabel": "across 5 active days"
+      },
+      {
+        "n": "21 min",
+        "label": "Median session",
+        "sublabel": ""
+      },
+      {
+        "n": "Wednesday",
+        "label": "Most active day",
+        "sublabel": "around 10 AM local"
+      }
+    ],
+    "topics": [
+      {
+        "id": "dev-tooling-and-pricing",
+        "title": "Dev tooling and pricing",
+        "description": "Claude Pro vs Google AI Plus, Zed Pro, Copilot, API token costs, free-tier project limits",
+        "percent": 27
+      },
+      {
+        "id": "at-proto-and-fediverse",
+        "title": "AT Protocol and the fediverse",
+        "description": "Protocol trademark drama, PDS disaster recovery drills, rotation key hygiene, 72-hour recovery window",
+        "percent": 27
+      },
+      {
+        "id": "academics-and-enrollment",
+        "title": "Academics and enrollment",
+        "description": "Grade review for first year, IT elective track selection, TESDA AI course activities",
+        "percent": 27
+      },
+      {
+        "id": "personal-user-manual",
+        "title": "Personal user manual project",
+        "description": "Structuring custom instructions in tiers, MCP server vs raw Markdown, memory updates",
+        "percent": 14
+      },
+      {
+        "id": "odds-and-ends",
+        "title": "Odds and ends",
+        "description": "Watcher lore explainer for a friend, substance-over-form reflection",
+        "percent": 5
+      }
+    ],
+    "aboutYourTime": [
+      {
+        "title": "Mapping what you already have before adding anything new.",
+        "body": "Across the Claude Pro pricing conversation, the Zed trial, and the Google AI tier comparison, you kept circling back to the same question: does this solve a problem I actually have right now, or am I buying headroom I don't need yet."
+      },
+      {
+        "title": "Practicing the disaster before it matters.",
+        "body": "The AT Proto PDS work — rotation key drills, the 72-hour recovery window, the Margin.at thread as a case study — was all rehearsal on a throwaway DID before touching anything real."
+      },
+      {
+        "title": "Sorting out the academic path while enrollment is live.",
+        "body": "You caught the IT elective prerequisite chain mid-enrollment, corrected the timeline from 'Year 4 decision' to 'this term,' and went back to the faculty with a specific course-code question."
+      }
+    ],
+    "worthThinkingAbout": [
+      {
+        "title": "You corrected Claude more than once this month.",
+        "body": "The Google AI Plus 2TB tier that didn't show on the marketing page, the faculty source versus classmates, the IT elective timeline that turned out to be a this-term decision — each time you brought a screenshot or a firsthand detail that overrode what came back.",
+        "action": "reflect",
+        "prompt": "correction habit"
+      }
+    ],
+    "expandingYourSkills": [
+      {
+        "skill": "delegation",
+        "title": "Research goes to Claude, but the call on what to buy or build stays with you.",
+        "body": "You'd ask for the pricing breakdown or the protocol spec, then decide on your own — the Google AI tier downgrade, the Zed student plan timing, holding off on Claude Pro until Copilot's limits actually bite.",
+        "action": null,
+        "prompt": null
+      },
+      {
+        "skill": "description",
+        "title": "Screenshots and live links do the explaining your prompts don't.",
+        "body": "The Google AI Plus downgrade screen, the Bluesky thread with scanhash.com, the 2024 BSIT program guide PDF — you'd drop primary sources mid-conversation when the text alone wasn't enough context.",
+        "action": "copy-prompt",
+        "prompt": "Here's a screenshot/link for context — check what's actually on this page before answering, because the public marketing site doesn't match what I'm seeing in my account."
+      },
+      {
+        "skill": "discernment",
+        "title": "When the answer doesn't match your screen, you say so.",
+        "body": "You caught the missing 2TB Google AI Plus tier and the IT elective timeline error, both times pushing back with evidence from your own enrollment process rather than accepting the first response.",
+        "action": null,
+        "prompt": null
+      },
+      {
+        "skill": "diligence",
+        "title": "You asked Claude not to store the family and housing details in memory.",
+        "body": "During the memory update session, after sharing the Meycauayan school history and the housing loan context, you let Claude keep the residence-vs-academic distinction and drop the rest.",
+        "action": null,
+        "prompt": null
+      }
+    ],
+    "supportNote": null,
+    "dailyActivity": [
+      {
+        "date": "Jul 1 2026",
+        "conversations": 0,
+        "sessionMinutes": 0,
+        "turns": null
+      },
+      {
+        "date": "Jul 2 2026",
+        "conversations": 0,
+        "sessionMinutes": 0,
+        "turns": null
+      },
+      {
+        "date": "Jul 3 2026",
+        "conversations": 0,
+        "sessionMinutes": 0,
+        "turns": null
+      },
+      {
+        "date": "Jul 4 2026",
+        "conversations": 0,
+        "sessionMinutes": 0,
+        "turns": null
+      },
+      {
+        "date": "Jul 5 2026",
+        "conversations": 0,
+        "sessionMinutes": 0,
+        "turns": null
+      },
+      {
+        "date": "Jul 6 2026",
+        "conversations": 0,
+        "sessionMinutes": 0,
+        "turns": null
+      },
+      {
+        "date": "Jul 7 2026",
+        "conversations": 0,
+        "sessionMinutes": 0,
+        "turns": null
+      },
+      {
+        "date": "Jul 8 2026",
+        "conversations": 0,
+        "sessionMinutes": 0,
+        "turns": null
+      },
+      {
+        "date": "Jul 9 2026",
+        "conversations": 0,
+        "sessionMinutes": 0,
+        "turns": null
+      },
+      {
+        "date": "Jul 10 2026",
+        "conversations": 0,
+        "sessionMinutes": 0,
+        "turns": null
+      },
+      {
+        "date": "Jul 11 2026",
+        "conversations": 0,
+        "sessionMinutes": 0,
+        "turns": null
+      },
+      {
+        "date": "Jul 12 2026",
+        "conversations": 0,
+        "sessionMinutes": 0,
+        "turns": null
+      },
+      {
+        "date": "Jul 13 2026",
+        "conversations": 0,
+        "sessionMinutes": 0,
+        "turns": null
+      },
+      {
+        "date": "Jul 14 2026",
+        "conversations": 2,
+        "sessionMinutes": 277,
+        "turns": 8.5
+      },
+      {
+        "date": "Jul 15 2026",
+        "conversations": 5,
+        "sessionMinutes": 509,
+        "turns": 3.8
+      },
+      {
+        "date": "Jul 16 2026",
+        "conversations": 1,
+        "sessionMinutes": 25,
+        "turns": 8
+      },
+      {
+        "date": "Jul 17 2026",
+        "conversations": 1,
+        "sessionMinutes": 0,
+        "turns": 1
+      },
+      {
+        "date": "Jul 18 2026",
+        "conversations": 2,
+        "sessionMinutes": 14,
+        "turns": 2.5
+      },
+      {
+        "date": "Jul 19 2026",
+        "conversations": 0,
+        "sessionMinutes": 0,
+        "turns": null
+      },
+      {
+        "date": "Jul 20 2026",
+        "conversations": 0,
+        "sessionMinutes": 0,
+        "turns": null
+      },
+      {
+        "date": "Jul 21 2026",
+        "conversations": 0,
+        "sessionMinutes": 0,
+        "turns": null
+      },
+      {
+        "date": "Jul 22 2026",
+        "conversations": 0,
+        "sessionMinutes": 0,
+        "turns": null
+      },
+      {
+        "date": "Jul 23 2026",
+        "conversations": 0,
+        "sessionMinutes": 0,
+        "turns": null
+      },
+      {
+        "date": "Jul 24 2026",
+        "conversations": 0,
+        "sessionMinutes": 0,
+        "turns": null
+      },
+      {
+        "date": "Jul 25 2026",
+        "conversations": 0,
+        "sessionMinutes": 0,
+        "turns": null
+      },
+      {
+        "date": "Jul 26 2026",
+        "conversations": 0,
+        "sessionMinutes": 0,
+        "turns": null
+      },
+      {
+        "date": "Jul 27 2026",
+        "conversations": 0,
+        "sessionMinutes": 0,
+        "turns": null
+      },
+      {
+        "date": "Jul 28 2026",
+        "conversations": 0,
+        "sessionMinutes": 0,
+        "turns": null
+      },
+      {
+        "date": "Jul 29 2026",
+        "conversations": 0,
+        "sessionMinutes": 0,
+        "turns": null
+      },
+      {
+        "date": "Jul 30 2026",
+        "conversations": 0,
+        "sessionMinutes": 0,
+        "turns": null
+      },
+      {
+        "date": "Jul 31 2026",
+        "conversations": 0,
+        "sessionMinutes": 0,
+        "turns": null
+      }
+    ]
+  },
+  "markdown": null,
+  "usageStats": {
+    "conversationCount": 11,
+    "coworkCount": 0,
+    "daysActive": 5,
+    "medianSessionMinutes": 21,
+    "peakHour": 10,
+    "peakDay": 3,
+    "hourlyCounts": [
+      2,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      3,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      1
+    ],
+    "dailyCounts": [
+      0,
+      0,
+      2,
+      5,
+      1,
+      1,
+      2
+    ],
+    "totalSessionMinutes": null
+  },
+  "reflectionUuid": "dd9f9f39-f1b8-4876-96b3-5c73c9df941d"
+}
